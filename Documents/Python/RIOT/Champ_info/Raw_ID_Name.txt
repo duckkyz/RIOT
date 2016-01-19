@@ -1,0 +1,272 @@
+Champ[0].id = 103
+Champ[0].name = Ahri
+
+Champ[1].id = 84
+Champ[1].name = Akali
+
+Champ[2].id = 12
+Champ[2].name = Alistar
+
+Champ[3].id = 32
+Champ[3].name = Amumu
+
+Champ[4].id = 34
+Champ[4].name = Anivia
+
+Champ[5].id = 1
+Champ[5].name = Annie
+
+Champ[6].id = 22
+Champ[6].name = Ashe
+
+Champ[7].id = 53
+Champ[7].name = Blitzcrank
+
+Champ[8].id = 63
+Champ[8].name = Brand
+
+Champ[9].id = 51
+Champ[9].name = Caitlyn
+
+Champ[10].id = 69
+Champ[10].name = Cassiopeia
+
+Champ[11].id = 31
+Champ[11].name = Cho'Gath
+
+Champ[12].id = 42
+Champ[12].name = Corki
+
+Champ[13].id = 36
+Champ[13].name = Dr. Mundo
+
+Champ[14].id = 28
+Champ[14].name = Evelynn
+
+Champ[15].id = 81
+Champ[15].name = Ezreal
+
+Champ[16].id = 9
+Champ[16].name = Fiddlesticks
+
+Champ[17].id = 105
+Champ[17].name = Fizz
+
+Champ[18].id = 3
+Champ[18].name = Galio
+
+Champ[19].id = 41
+Champ[19].name = Gangplank
+
+Champ[20].id = 86
+Champ[20].name = Garen
+
+Champ[21].id = 79
+Champ[21].name = Gragas
+
+Champ[22].id = 104
+Champ[22].name = Graves
+
+Champ[23].id = 74
+Champ[23].name = Heimerdinger
+
+Champ[24].id = 39
+Champ[24].name = Irelia
+
+Champ[25].id = 40
+Champ[25].name = Janna
+
+Champ[26].id = 59
+Champ[26].name = Jarvan IV
+
+Champ[27].id = 24
+Champ[27].name = Jax
+
+Champ[28].id = 43
+Champ[28].name = Karma
+
+Champ[29].id = 30
+Champ[29].name = Karthus
+
+Champ[30].id = 38
+Champ[30].name = Kassadin
+
+Champ[31].id = 55
+Champ[31].name = Katarina
+
+Champ[32].id = 10
+Champ[32].name = Kayle
+
+Champ[33].id = 85
+Champ[33].name = Kennen
+
+Champ[34].id = 96
+Champ[34].name = Kog'Maw
+
+Champ[35].id = 7
+Champ[35].name = LeBlanc
+
+Champ[36].id = 64
+Champ[36].name = Lee Sin
+
+Champ[37].id = 89
+Champ[37].name = Leona
+
+Champ[38].id = 99
+Champ[38].name = Lux
+
+Champ[39].id = 54
+Champ[39].name = Malphite
+
+Champ[40].id = 90
+Champ[40].name = Malzahar
+
+Champ[41].id = 57
+Champ[41].name = Maokai
+
+Champ[42].id = 11
+Champ[42].name = Master Yi
+
+Champ[43].id = 21
+Champ[43].name = Miss Fortune
+
+Champ[44].id = 82
+Champ[44].name = Mordekaiser
+
+Champ[45].id = 25
+Champ[45].name = Morgana
+
+Champ[46].id = 75
+Champ[46].name = Nasus
+
+Champ[47].id = 76
+Champ[47].name = Nidalee
+
+Champ[48].id = 56
+Champ[48].name = Nocturne
+
+Champ[49].id = 20
+Champ[49].name = Nunu
+
+Champ[50].id = 2
+Champ[50].name = Olaf
+
+Champ[51].id = 61
+Champ[51].name = Orianna
+
+Champ[52].id = 80
+Champ[52].name = Pantheon
+
+Champ[53].id = 78
+Champ[53].name = Poppy
+
+Champ[54].id = 33
+Champ[54].name = Rammus
+
+Champ[55].id = 58
+Champ[55].name = Renekton
+
+Champ[56].id = 92
+Champ[56].name = Riven
+
+Champ[57].id = 68
+Champ[57].name = Rumble
+
+Champ[58].id = 13
+Champ[58].name = Ryze
+
+Champ[59].id = 113
+Champ[59].name = Sejuani
+
+Champ[60].id = 35
+Champ[60].name = Shaco
+
+Champ[61].id = 98
+Champ[61].name = Shen
+
+Champ[62].id = 102
+Champ[62].name = Shyvana
+
+Champ[63].id = 27
+Champ[63].name = Singed
+
+Champ[64].id = 14
+Champ[64].name = Sion
+
+Champ[65].id = 15
+Champ[65].name = Sivir
+
+Champ[66].id = 72
+Champ[66].name = Skarner
+
+Champ[67].id = 37
+Champ[67].name = Sona
+
+Champ[68].id = 16
+Champ[68].name = Soraka
+
+Champ[69].id = 50
+Champ[69].name = Swain
+
+Champ[70].id = 91
+Champ[70].name = Talon
+
+Champ[71].id = 44
+Champ[71].name = Taric
+
+Champ[72].id = 17
+Champ[72].name = Teemo
+
+Champ[73].id = 18
+Champ[73].name = Tristana
+
+Champ[74].id = 48
+Champ[74].name = Trundle
+
+Champ[75].id = 23
+Champ[75].name = Tryndamere
+
+Champ[76].id = 4
+Champ[76].name = Twisted Fate
+
+Champ[77].id = 29
+Champ[77].name = Twitch
+
+Champ[78].id = 77
+Champ[78].name = Udyr
+
+Champ[79].id = 6
+Champ[79].name = Urgot
+
+Champ[80].id = 67
+Champ[80].name = Vayne
+
+Champ[81].id = 45
+Champ[81].name = Veigar
+
+Champ[82].id = 112
+Champ[82].name = Viktor
+
+Champ[83].id = 8
+Champ[83].name = Vladimir
+
+Champ[84].id = 106
+Champ[84].name = Volibear
+
+Champ[85].id = 19
+Champ[85].name = Warwick
+
+Champ[86].id = 62
+Champ[86].name = Wukong
+
+Champ[87].id = 101
+Champ[87].name = Xerath
+
+Champ[88].id = 5
+Champ[88].name = Xin Zhao
+
+Champ[89].id = 83
+Champ[89].name = Yorick
+
+Champ[90].id = 26
+Champ[90].name = Zilean

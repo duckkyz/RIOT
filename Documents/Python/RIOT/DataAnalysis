@@ -1,0 +1,20 @@
+###################################################################################################################
+# So this is going to be the file that the sorting happens in, Heirchy:                                           #
+# Main -> User -> (1) Sort all data              |                                                                #
+#                    (2) Sort by game type          |                                                             #
+#                    (3) Sort by champion           |   ]-> Sort buffer                                           #
+#                    (4) Sort by role               |                                                             #
+#                    (5-9) Reserved for future use  |                                                             #
+#                                                                                                                 #
+#  -> (1) : [Number of Games] [Wins] [Average K/D/A] [Average CS] [% Top] [% Mid] [% Jungle] [% ADC] [% Support]  #
+#     (2) : [[Game type:]]                                                                                        #
+#            [Number of Games] [Wins] [Average K/D/A] [Average CS] [% Top] [% Mid] [% Jungle] [% ADC] [% Support] #
+#     (3) : [[Champion:]]                                                                                         #
+#            [Number of Games] [Wins] [Average K/D/A] [Average CS] [% Top] [% Mid] [% Jungle] [% ADC] [% Support] #
+#     (4) : [[Role:]]                                                                                             #
+#            [Number of Games] [Wins] [Average K/D/A] [Average CS] [Champ most played]                            #
+#                                                                                                                 #
+#                                                                                                                 #
+#                                                                                                                 #
+#                                                                                                                 #
+###################################################################################################################
